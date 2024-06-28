@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module 2 Assignment.vcxproj, Module 3 Assignment.vcxproj, Module 3 Milestone.vcxproj, Module 4.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(320,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(448,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(449,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(453,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(454,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(456,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(457,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\OpenGLSample\Source.cpp(470,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\Jon\Desktop\School\SNHU\CS 330\Project\Debug\Project.exe
